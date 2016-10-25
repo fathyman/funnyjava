@@ -1,0 +1,2 @@
+# funnyjava
+java note
